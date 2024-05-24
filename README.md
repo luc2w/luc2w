@@ -1,5 +1,5 @@
 ### Olá! Eu sou Lucas Victor
-- Estou cursando *digital security* P1
+- Estou cursando *digital security* 
 -  Estou desenvolvendo minhas skills para ajudar a melhoria de segurança de sistemas
 - Estou procurando engressar em uma empresa para desenvolver e aprimorar minhas habilidades
 - No momento pretendo ter a especialidade em segurança de dados
