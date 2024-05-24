@@ -1,8 +1,8 @@
 ### Olá! Eu sou Lucas Victor
-- Estou cursando *SISTEMAS PARA INTERNET* P1
--  Estou aprendendo Java, Java Script, CSS, Html e MySQL
+- Estou cursando *digital security * P1
+-  Estou desenvolvendo minhas skills para ajudar a melhoria de segurança de sistemas
 - Estou procurando engressar em uma empresa para desenvolver e aprimorar minhas habilidades
-- No momento pretendo ter a especialização em front-end e back-end
+- No momento pretendo ter a especialidade em segurança de dados
 - Para me contatar imediatamente você pode ligar ou mandar mensagem via whatsapp para: 83986977496
 - Pode me chamar por: Lucas ou Victor
 ###
