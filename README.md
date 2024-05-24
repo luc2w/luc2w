@@ -1,6 +1,6 @@
 ### Olá! Eu sou Lucas Victor
 - Estou cursando *digital security* 
--  Estou desenvolvendo minhas skills para ajudar a melhoria de segurança de sistemas
+-  Estou desenvolvendo minhas skills para ajudar a melhoria de segurança de sistemas e dados
 - Estou procurando engressar em uma empresa para desenvolver e aprimorar minhas habilidades
 - No momento pretendo ter a especialidade em segurança de dados
 - Para me contatar imediatamente você pode ligar ou mandar mensagem via whatsapp para: 83986977496
