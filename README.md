@@ -1,12 +1,11 @@
-### Olá! Eu sou Lucas Victor
-- Estou cursando *digital security* 
--  Estou desenvolvendo minhas skills para ajudar a melhoria de segurança de sistemas e dados
-- Estou procurando engressar em uma empresa para desenvolver e aprimorar minhas habilidades
-- No momento pretendo ter a especialidade em segurança de dados
-- Para me contatar imediatamente você pode ligar ou mandar mensagem via whatsapp para: 83986977496
-- Pode me chamar por: Lucas ou Victor
+### Olá! Eu sou o Lucas 
+- Estou cursando *segurança de dados* 
+-  Estou desenvolvendo minhas skills para contribuir com a corporação o desenvolvimento da segurança dos dados e sistemas da mesma
+- Me encontro aberto a propostas de corporações que buscam a um colaborador dedicado ao crescimento exponêncial
+- Você pode entrar em contato comigo atráves do link deixado abaixo, ou, pode mandar mensagem no whatsapp: 83986977496
+- Pode me chamar por: Lucas
 ###
 <div>
-<a href="https://www.instagram.com/luc2w/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/luct2w/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-victor-538325187/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
