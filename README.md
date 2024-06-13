@@ -2,7 +2,7 @@
 - Estou cursando *segurança de dados* 
 -  Estou desenvolvendo minhas skills para contribuir com a corporação o desenvolvimento da segurança dos dados e sistemas da mesma
 - Me encontro aberto a propostas de corporações que buscam a um colaborador dedicado ao crescimento exponêncial
-- Você pode entrar em contato comigo atráves do link deixado abaixo, ou, pode mandar mensagem no whatsapp: 83986977496
+- Você pode entrar em contato comigo atráves do link das redes sociais deixado abaixo, ou, pode mandar mensagem no whatsapp: 83986977496
 - Pode me chamar por: Lucas
 ###
 <div>
